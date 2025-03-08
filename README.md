@@ -8,3 +8,5 @@ Features
 - Model Selection: Users can select between different language models.
 - Embeddings: Uses HuggingFace embeddings for document processing.
 - Retrieval-Augmented Generation: Combines document retrieval with language model generation to answer questions.
+
+Try the app :https://rag-chatbot-pdf-and-conv-history.streamlit.app/
