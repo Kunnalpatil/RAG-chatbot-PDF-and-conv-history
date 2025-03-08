@@ -14,6 +14,7 @@ from langchain_community.document_loaders import PyPDFLoader
 import os
 import chromadb.api
 chromadb.api.client.SharedSystemClient.clear_system_cache()
+os.environ['CHROMA_SQLITE_IMPL'] = 'pysqlite3'
 from dotenv import load_dotenv
 load_dotenv()
 
