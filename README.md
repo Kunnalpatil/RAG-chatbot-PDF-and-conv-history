@@ -1,6 +1,6 @@
 # PDFChat: Conversational AI for PDFs  
 
-Try the app :https://rag-chatbot-pdf-and-conv-history.streamlit.app/
+Try the app : [https://rag-chatbot-pdf-and-conv-history.streamlit.app](https://rag-chatbot-pdf-and-conv-history.streamlit.app)
 
 PDFChat is an AI-powered web application that lets you upload PDF files and ask questions about their content in natural language. Powered by Retrieval Augmented Generation (RAG), it delivers accurate, contextually relevant answers while preserving chat history for seamless conversations.  
 
