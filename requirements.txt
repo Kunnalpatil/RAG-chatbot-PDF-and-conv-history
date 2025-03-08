@@ -8,5 +8,3 @@ langchain-chroma == 0.2.2
 langchain-huggingface == 0.1.2
 langchain-groq == 0.2.4
 streamlit ==  1.43.0
-faiss-cpu  == 1.10.0
-sqlite3 >= 3.35.0
